@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfmenubop.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF foot bop0000" x="0" y="0" width="683" height="416" frameX="0" frameY="0" frameWidth="683" frameHeight="417"/>
+	<SubTexture name="BF foot bop0001" x="683" y="0" width="683" height="416" frameX="0" frameY="0" frameWidth="683" frameHeight="417"/>
+	<SubTexture name="BF foot bop0002" x="0" y="416" width="683" height="416" frameX="0" frameY="0" frameWidth="683" frameHeight="417"/>
+	<SubTexture name="BF foot bop0003" x="0" y="416" width="683" height="416" frameX="0" frameY="0" frameWidth="683" frameHeight="417"/>
+	<SubTexture name="BF foot bop0004" x="683" y="416" width="683" height="417"/>
+	<SubTexture name="BF foot bop0005" x="683" y="416" width="683" height="417"/>
+	<SubTexture name="BF foot bop0006" x="0" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0007" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0008" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0009" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0010" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0011" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0012" x="683" y="833" width="683" height="417"/>
+	<SubTexture name="BF foot bop0013" x="683" y="833" width="683" height="417"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+
+    "charSprite":"normal",
+    "charOfsX":0,
+    "charOfsY":0,
+    "bgSprite":"hall2",
+    "bgOfsX":0,
+    "bgOfsY":0,
+    "weekList":["tutorial", "week1"]
+}

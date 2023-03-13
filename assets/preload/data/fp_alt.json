@@ -1,0 +1,10 @@
+{
+
+    "charSprite":"alt",
+    "charOfsX":0,
+    "charOfsY":0,
+    "bgSprite":"gradient",
+    "bgOfsX":0,
+    "bgOfsY":100,
+    "weekList":["tutorial"]
+}

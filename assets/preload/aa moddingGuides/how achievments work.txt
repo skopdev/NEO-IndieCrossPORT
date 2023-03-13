@@ -1,0 +1,14 @@
+haha skop's funny dev guide
+
+the achievementsList is in data
+so basically you write ur achievement in the list and make a json for it
+
+all the stuff in it are self explanitory but do keep in !!!mind that!!!
+the imageName is also the save tag
+
+i also made a lua callback to grant an achievement
+
+getAchievement(achievemtentsavetag)
+
+also if it's a week achievement make sure that
+practice == false and botplay == false
